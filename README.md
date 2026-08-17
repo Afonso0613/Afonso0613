@@ -17,7 +17,7 @@
 - 🎓 Master's student in **Engenharia Informática**, specializing in **Data Warehousing**, at Universidade do Minho
 - 🔬 Currently writing my thesis on a **sentiment-aware data warehouse** for the tourism/hospitality domain
 - 💻 Doing social media content and web development for **AllMed**, a dental clinic
-- 📊 Passionate about turning messy data into dimensional models, dashboards, and predictive insights
+- 📊 Passionate about turning messy data into dimensional models, dashboards and predictive insights
 - 🌍 Based in Braga, Portugal
 
 <br/>
@@ -45,7 +45,7 @@
 ### 📈 Sentiment-Aware Data Warehouse
 **Master's Thesis** · Universidade do Minho
 
-Dimensional data warehouse (Kimball, star schema) integrating polarity, subjectivity, and emotion extracted from review text, applied to Portuguese tourism/hospitality. Built with an ETL pipeline using VADER, TextBlob, and the NRC Emotion Lexicon, prototyped in SQLite and validated via OLAP queries.
+Dimensional data warehouse (Kimball, star schema) integrating polarity, subjectivity and emotion extracted from review text, applied to Portuguese tourism/hospitality. Built with an ETL pipeline using VADER, TextBlob and the NRC Emotion Lexicon, prototyped in SQLite and validated via OLAP queries.
 
 `Python` `SQLite` `VADER` `NRC Emotion Lexicon` `Kimball`
 
@@ -55,7 +55,7 @@ Dimensional data warehouse (Kimball, star schema) integrating polarity, subjecti
 ### 🏋️ EasyFit Data Warehouse & ML
 **Group Project** · Sistemas de Armazéns de Dados
 
-Decision-support DW for a fictional gym: star schema with 2 fact tables and 6 dimensions, ETL in Python/MySQL, and 5 Power BI dashboards. Extended with K-Means customer segmentation and a hybrid recommendation system (up to 90% precision on class recommendations).
+Decision-support DW for a fictional gym: star schema with 2 fact tables and 6 dimensions, ETL in Python/MySQL and 5 Power BI dashboards. Extended with K-Means customer segmentation and a hybrid recommendation system (up to 90% precision on class recommendations).
 
 `Python` `MySQL` `Power BI` `K-Means` `Recommender Systems`
 
@@ -67,7 +67,7 @@ Decision-support DW for a fictional gym: star schema with 2 fact tables and 6 di
 ### 💰 Income Classification
 **Coursework Project**
 
-Compared 7 classification algorithms (Logistic Regression, SVM, Decision Tree, Random Forest, Gradient Boosting, XGBoost, and a Keras neural network) on a census/income dataset with 5-fold stratified cross-validation. Best model: XGBoost, 87.2% accuracy.
+Compared 7 classification algorithms (Logistic Regression, SVM, Decision Tree, Random Forest, Gradient Boosting, XGBoost and a Keras neural network) on a census/income dataset with 5-fold stratified cross-validation. Best model: XGBoost, 87.2% accuracy.
 
 `Python` `XGBoost` `TensorFlow/Keras` `scikit-learn`
 
@@ -77,7 +77,7 @@ Compared 7 classification algorithms (Logistic Regression, SVM, Decision Tree, R
 ### 🦷 AllMed Website
 **Web Development**
 
-Built and optimized a React/TypeScript/Vite site for a dental clinic, hosted on Vercel. Ongoing performance work: removed heavy animation libraries, fixed CLS/INP issues, and implemented a dark navy theme for select sections while preserving brand identity.
+Built and optimized a React/TypeScript/Vite site for a dental clinic, hosted on Vercel. Ongoing performance work: removed heavy animation libraries, fixed CLS/INP issues and implemented a dark navy theme for select sections while preserving brand identity.
 
 `React` `TypeScript` `Vite` `Tailwind CSS`
 
